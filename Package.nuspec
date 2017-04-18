@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SpectoLabs.Hoverfly</id>
+    <version>0.11.1</version>
+    <authors>SpectoLabs</authors>
+    <owners>SpectoLabs</owners>
+    <projectUrl>http://hoverfly.io/</projectUrl>
+    <iconUrl>https://hoverfly.io/img/hf_large-3032f9381a.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Hoverfly is a lightweight, open source API simulation tool. Using Hoverfly, you can create realistic simulations of the APIs your application depends on.</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
